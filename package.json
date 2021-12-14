@@ -9,6 +9,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "knex": "^0.95.14",
+    "mysql": "^2.18.1",
     "restify": "^8.6.0",
     "restify-errors": "^8.0.2"
   }
